@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jokes.Web", "Jokes.Web\Jokes.Web.csproj", "{9F5FF25B-4C49-4A06-B2D1-6FA721F5A0EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jokes.Data", "Jokes.Data\Jokes.Data.csproj", "{DC977428-F148-4156-BD1B-68F4FAA7A610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5FF25B-4C49-4A06-B2D1-6FA721F5A0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5FF25B-4C49-4A06-B2D1-6FA721F5A0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5FF25B-4C49-4A06-B2D1-6FA721F5A0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5FF25B-4C49-4A06-B2D1-6FA721F5A0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC977428-F148-4156-BD1B-68F4FAA7A610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC977428-F148-4156-BD1B-68F4FAA7A610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC977428-F148-4156-BD1B-68F4FAA7A610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC977428-F148-4156-BD1B-68F4FAA7A610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B7DB29-D58F-4D56-AC6A-9245F086EA9A}
+	EndGlobalSection
+EndGlobal
